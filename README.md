@@ -14,5 +14,5 @@ When compiled by IDE, pack plugin to jar
 
 ```
 cd carcassonne_for_two/
-zip -r -9 ../carcassonne_for_two.jar * -x *.java
+zip -r -9 ../builds/carcassonne_for_two.jar * -x *.java
 ```
